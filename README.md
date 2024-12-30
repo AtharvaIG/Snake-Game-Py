@@ -24,7 +24,7 @@ A simple Snake game built using Python's Turtle Graphics module. This game allow
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   [git clone https://github.com/AtharvaIG/Snake-Game-Py]
    ```
 
 2. Navigate into the project directory:
@@ -58,8 +58,7 @@ snake-game/
 ├── snake.py            # Contains the Snake class
 ├── food.py             # Contains the Food class
 ├── scoreboard.py       # Contains the Scoreboard class
-├── README.md           # This README file
-└── LICENSE             # Project license
+
 ```
 
 ## Credits
