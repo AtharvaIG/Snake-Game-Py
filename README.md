@@ -1,3 +1,7 @@
+# Snake Game
+![Snake Game Screenshot](./snake%20game.png)
+
+A simple Snake game built using Python's Turtle Graphics module. This game allows you to control the snake using the arrow keys and grow longer by eating food while avoiding collisions with walls and its own tail.
 
 
 # Snake Game
